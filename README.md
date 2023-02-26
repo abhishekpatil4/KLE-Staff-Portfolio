@@ -3,12 +3,6 @@
 
 KLE Staff Portfolio is a full-stack web application that showcases the work history and achievements of KLE Technological University staff. The front-end is built using ReactJS and styled with Tailwind CSS, while the back-end is powered by Django. This app provides an intuitive interface to display information about staff members, making it easy to browse and learn more about their expertise.
 
-
-
-
-## Installation
-
-
 ## Run Locally
 
 Clone the project
